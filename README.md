@@ -3,8 +3,9 @@
 <h4 align="center">🎓 Software Engineer | 💻 Full Stack .NET Developer in Progress | 🎨 UI/UX Designer</h4>
 
 ---
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+<p align="center">
+  <img src="https://github.com/Basant-Hatem/Basant-Hatem/blob/main/Screenshot%202025-07-04%20163720.png?raw=true" width="120" style="border-radius: 10px;" align="left"/>
+</p>
   <br>
   <strong>Always learning, building, and sharing 💖</strong>
 </div>
