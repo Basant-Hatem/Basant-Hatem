@@ -1,6 +1,11 @@
 <!-- Main Title -->
 <h2 align="center">Hi there 👋 I'm Basant Hatem</h2>
 <h4 align="center">🎓 Software Engineer | 💻 Full Stack .NET Developer in Progress | 🎨 UI/UX Designer</h4>
+I'm a Software Engineering student at Cairo University with a passion for crafting clean code and meaningful user experiences.  
+From backend logic and database design to pixel-perfect UI — I enjoy building complete systems that are both functional and beautiful.
+
+I'm currently diving deep into the .NET ecosystem and learning how to connect the dots between C#, SQL, APIs, and responsive frontend design.  
+With every project I join, I aim to grow, collaborate, and bring ideas to life — step by step, and always with purpose.
 
 ---
 <p align="center">
@@ -90,12 +95,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Basant-Hatem/Basant-Hatem/master/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub Stats"><br>
-  <img src="https://raw.githubusercontent.com/Basant-Hatem/Basant-Hatem/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/Basant-Hatem/Basant-Hatem/master/profile-summary-card-output/default/2-most-commit-language.svg"><br>
-</p>
 
 
 
