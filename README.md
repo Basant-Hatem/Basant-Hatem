@@ -97,10 +97,6 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://raw.githubusercontent.com/Basant-Hatem/Basant-Hatem/master/profile-summary-card-output/default/2-most-commit-language.svg"><br>
 </p>
 
-> 📌 **NOTE:** This does not indicate my skill level or language proficiency.  
-> It simply reflects which languages I’ve used most in my GitHub repositories.
-
----
 
 
 
