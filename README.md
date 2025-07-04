@@ -49,6 +49,15 @@ With every project I join, I aim to grow, collaborate, and bring ideas to life â
   <img src="https://github-readme-stats.vercel.app/api?username=basant-hatem&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-hatem&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
 </p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=basant-hatem&show_icons=true&hide=issues,contribs
+  &bg_color=000000
+  &title_color=87CEFA
+  &text_color=D8BFD8
+  &icon_color=BA55D3
+  &border_color=BA55D3" 
+  alt="GitHub Stats" 
+  width="50%"/>
 
 ---
 
