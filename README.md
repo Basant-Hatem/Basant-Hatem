@@ -48,15 +48,14 @@
 
 
 
-## 📫 Contact Me
-
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:basant.hatem.dev@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/basant-hatem/"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
-  <a href="https://github.com/basant-hatem"><img src="https://img.icons8.com/ios-filled/32/000000/github.png"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basant-Hatem&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Hatem&layout=compact&hide_border=true&theme=radical&bg_color=000000&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Basant-Hatem&theme=radical&hide_border=true&background=000000"/>
 </p>
+
 
 ---
 ## 📊 GitHub Stats
