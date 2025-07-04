@@ -9,7 +9,8 @@
        style="border-radius: 100%;" 
        alt="Profile Picture"/>
 </p>
- <p align="center"><strong>Driven by passion, powered by code, inspired by design — learning, building, evolving, and never stopping. 💫</strong></p>
+ <p align="center"><strong><em>✨ Driven by passion, powered by code, inspired by design — learning, building, evolving, and never stopping. ✨</em></strong></p>
+
 
 
 
