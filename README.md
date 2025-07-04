@@ -4,7 +4,10 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Basant-Hatem/Basant-Hatem/blob/main/Screenshot%202025-07-04%20163720.png?raw=true" width="120" style="border-radius: 10px;" align="left"/>
+  <img src="https://github.com/Basant-Hatem/Basant-Hatem/blob/main/Screenshot%202025-07-04%20163720.png?raw=true" 
+       width="120" 
+       style="border-radius: 50%;" 
+       alt="Profile Picture"/>
 </p>
   <br>
   <strong>Always learning, building, and sharing 💖</strong>
