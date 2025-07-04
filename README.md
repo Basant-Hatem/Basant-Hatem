@@ -9,9 +9,8 @@
        style="border-radius: 100%;" 
        alt="Profile Picture"/>
 </p>
-  <br>
-  <strong>Always learning, building, and sharing 💖</strong>
-</div>
+ <p align="center"><strong>Driven by passion, powered by code, inspired by design — learning, building, evolving, and never stopping. 💫</strong></p>
+
 
 
 ## 💫 About Me
