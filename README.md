@@ -5,7 +5,7 @@
 ---
 <p align="center">
   <img src="https://github.com/Basant-Hatem/Basant-Hatem/blob/main/Screenshot%202025-07-04%20163720.png?raw=true" 
-       width="120" 
+       width="180" 
        style="border-radius: 50%;" 
        alt="Profile Picture"/>
 </p>
