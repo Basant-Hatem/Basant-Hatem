@@ -4,7 +4,8 @@
 I'm a Software Engineering student at Cairo University with a passion for crafting clean code and meaningful user experiences.  
 From backend logic and database design to pixel-perfect UI — I enjoy building complete systems that are both functional and beautiful.
 
-I'm currently diving deep into the .NET ecosystem and learning how to connect the dots between C#, SQL, APIs, and responsive frontend design.  
+I'm currently learning frontend development using HTML, CSS, JavaScript, and Angular, while also diving deep into the .NET ecosystem with C#, SQL, and APIs.  
+My goal is to understand how to connect the frontend and backend effectively to build full-featured, user-friendly applications. 
 With every project I join, I aim to grow, collaborate, and bring ideas to life — step by step, and always with purpose.
 
 ---
