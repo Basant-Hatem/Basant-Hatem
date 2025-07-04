@@ -67,10 +67,13 @@ With every project I join, I aim to grow, collaborate, and bring ideas to life �
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=basant-hatem&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Hatem&layout=compact&hide_border=true&theme=tokyonight&bg_color=000000&langs_count=6" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Basant-Hatem&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Basant-Hatem&show_icons=true&hide=issues,contribs&bg_color=000000&title_color=7CFC00&text_color=ADFF2F&icon_color=7CFC00&border_color=7CFC00" alt="GitHub Stats" width="50%"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Hatem&layout=compact&hide_border=true&bg_color=000000&title_color=7CFC00&text_color=ADFF2F&icon_color=7CFC00&border_color=7CFC00&langs_count=6" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Basant-Hatem&theme=github-dark&hide_border=true&ring=7CFC00&fire=ADFF2F&currStreakLabel=7CFC00&background=000000" alt="GitHub Streak Stats"/>
 </p>
+
 
 
 ## 🔗 Let’s Connect!
