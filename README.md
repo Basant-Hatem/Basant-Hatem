@@ -50,12 +50,6 @@
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:basantshero@gmail.com"><strong>📧 Email</strong></a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/basant-hatem-5413ab2a3" target="_blank"><strong>💼 LinkedIn</strong></a> &nbsp;|&nbsp;
-  <a href="https://github.com/Basant-Hatem" target="_blank"><strong>🐙 GitHub</strong></a>
-</p>
-
 
 
 <p align="center">
