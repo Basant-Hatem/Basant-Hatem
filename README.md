@@ -47,6 +47,25 @@
 ---
 
 ## 📬 Let’s Connect
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:basantshero@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/basant-hatem-5413ab2a3" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Basant-Hatem" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="github" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:basantshero@gmail.com">basantshero@gmail.com</a>  
+</p>
 
 <p align="center">
   <a href="mailto:basant.hatem.dev@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
