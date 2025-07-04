@@ -3,6 +3,12 @@
 <h4 align="center">🎓 Software Engineer | 💻 Full Stack .NET Developer in Progress | 🎨 UI/UX Designer</h4>
 
 ---
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+  <br>
+  <strong>Always learning, building, and sharing 💖</strong>
+</div>
+
 
 ## 💫 About Me
 
@@ -46,8 +52,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-  <br>
-  <strong>Always learning, building, and sharing 💖</strong>
-</div>
