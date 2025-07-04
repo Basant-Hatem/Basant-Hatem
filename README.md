@@ -52,22 +52,15 @@ With every project I join, I aim to grow, collaborate, and bring ideas to life �
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basant-Hatem&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Hatem&layout=compact&hide_border=true&theme=radical&bg_color=000000&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Basant-Hatem&theme=radical&hide_border=true&background=000000"/>
-</p>
-
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Basant-Hatem&show_icons=true&hide=issues,contribs&bg_color=000000&title_color=87CEFA&text_color=D8BFD8&icon_color=BA55D3&border_color=BA55D3" alt="GitHub Stats" width="50%"/>
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=basant-hatem&show_icons=true&hide=issues,contribs&bg_color=000000&title_color=87CEFA&text_color=D8BFD8&icon_color=BA55D3&border_color=BA55D3" 
+  alt="GitHub Stats" 
+  width="50%"/>
+
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Hatem&layout=compact&hide_border=true&bg_color=000000&title_color=87CEFA&text_color=D8BFD8&icon_color=BA55D3&border_color=BA55D3&langs_count=6" alt="Top Languages" />
   
