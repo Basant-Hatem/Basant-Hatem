@@ -5,8 +5,8 @@
 ---
 <p align="center">
   <img src="https://github.com/Basant-Hatem/Basant-Hatem/blob/main/Screenshot%202025-07-04%20163720.png?raw=true" 
-       width="500" 
-       style="border-radius: 90%;" 
+       width="600" 
+       style="border-radius: 100%;" 
        alt="Profile Picture"/>
 </p>
   <br>
