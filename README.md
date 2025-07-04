@@ -59,4 +59,30 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basant-Hatem&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Hatem&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Basant-Hatem&theme=darcula&hide_border=true&background=FFFFFF00"/>
+</p>
+
+---
+
+## 🔗 Let’s Connect!
+
+<p align="center">
+  Want to collaborate, brainstorm, or just chat about tech?<br>
+  <strong>I’d love to connect!</strong> 💬✨
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/basant-hatem-5413ab2a3" target="_blank">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/> LinkedIn
+  </a>
+  &nbsp;|&nbsp;
+  <a href="mailto:basantshero@gmail.com">
+    <img src="https://img.icons8.com/color/32/000000/gmail--v1.png" alt="Gmail"/> Email
+  </a>
+</p>
 
